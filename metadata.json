@@ -1,0 +1,5 @@
+{
+  "name": "FlashLingo - AI Vocabulary Master",
+  "description": "Một ứng dụng học từ vựng thông minh sử dụng Gemini AI. Nhập danh sách từ của bạn, và AI sẽ tự động tạo flashcard chi tiết với định nghĩa, phiên âm và ví dụ minh họa.",
+  "requestFramePermissions": []
+}
